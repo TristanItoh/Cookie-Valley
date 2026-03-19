@@ -9,6 +9,6 @@
 
 ## Purpose
 
-Cookie Valley allows players to explore careers in a fun and safe environment. Learn how different jobs work, develop task management skills, and enjoy interactive gameplay without overwhelming complexity.
+Cookie Valley allows players to explore careers and gain real world skills. Learn how different jobs work, develop task management skills, and enjoy interactive gameplay without real stress!
 
-<img width="2247" height="837" alt="Screenshot 2026-01-19 014156" src="https://github.com/user-attachments/assets/3e051ded-e95f-4fc1-beff-da1d339570ed" />
+<img width="1994" height="964" alt="Screenshot 2026-03-19 001812" src="https://github.com/user-attachments/assets/92238735-89b5-4738-b7d0-92c836aa9fef" />
